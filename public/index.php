@@ -1,3 +1,3 @@
 <?php 
 
-echo "public folder !";
+echo "public folder NEW 123!";
